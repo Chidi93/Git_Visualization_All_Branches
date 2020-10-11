@@ -6,4 +6,10 @@ public class Main{
         
     }
 
+    public void methodInBranch() {
+        
+        System.out.println("Method in branch");
+        
+    }
+
 }
