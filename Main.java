@@ -7,10 +7,9 @@ public class Main{
         
     }
 
-    public void methodInBranch() {
-        
-        System.out.println("Method in branch");
-        
+    public void methodInBranch(){
+
+        System.out.println("Method in Master");
     }
 
 }
