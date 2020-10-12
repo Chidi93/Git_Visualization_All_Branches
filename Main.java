@@ -7,6 +7,7 @@ public class Main{
         
     }
 
+
     public void methodInMaster(){
 
         System.out.println("Method in Master");
